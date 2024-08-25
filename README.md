@@ -12,11 +12,9 @@ Delish Hub is a full stack MERN project designed as a food ordering platform. Th
 - **Authentication:** Auth0
 - **Payment Integration:** Stripe
 - **Other Tools/Libraries:**
-  - Axios for API requests
   - Mongoose for MongoDB object modeling
-  - JWT for token-based authentication (if applicable)
 
-## Installation
+<!-- ## Installation -->
 
 ### Prerequisites
 
